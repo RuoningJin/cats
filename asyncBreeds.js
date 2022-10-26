@@ -13,5 +13,4 @@ const returnData = (data) => {
   console.log('return value:', data);
 };
 module.exports = breedDetailsFromFile;
-breedDetailsFromFile('sdf', returnData(undefined));
 // we try to get the return value
